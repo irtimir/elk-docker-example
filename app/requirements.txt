@@ -1,0 +1,5 @@
+flask==2.1.0
+uWSGI==2.0.19.1
+sentry-sdk[flask]
+Werkzeug==2.2.2
+python-logstash
